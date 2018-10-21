@@ -18,7 +18,7 @@
     <body>
       <pb n="1" facs="https://www.isos.dias.ie/libraries/NLS/NLS_Adv_MS_72_1_6/small_jpgs/01.jpg"/>
       <cb n="a"/>
-      <w>cenl-</w> <w>feargra(?)</w> <pc>::</pc> <w>s(?)os</w> <w>ben<ex>n</ex></w> <w>s̄̇<ex>ed</ex>(?)</w><pc>.</pc> <w>as<ex>ur</ex></w> <w>m<ex>ac</ex></w><lb/>
+      <p><w>cenl-</w> <w>feargra(?)</w> <pc>::</pc> <w>s(?)os</w> <w>ben<ex>n</ex></w> <w>s̄̇<ex>ed</ex>(?)</w><pc>.</pc> <w>as<ex>ur</ex></w> <w>m<ex>ac</ex></w><lb/>
       <w>deic</w> <w>m<ex>ac</ex></w> <w>eogain<ex>n</ex></w> <w>uas</w>(?) <w>gac<ex>h</ex></w>(?) <w>cloid̄</w> <w>feb</w><lb/>
       <w>albinnd̄(?)</w> <w>in̈id<ex>h</ex>ac<ex>h</ex></w> <w><ex>ocus for</ex></w> <w><ex>conra</ex></w> <w>so</w>(? ro) <w>gart</w> <w>eoc<ex>h</ex>u</w><lb/>
       <w>ceol-</w>(?) <w>corm<ex>a</ex>c</w> <w>imm<ex>orro</ex></w> <w>damm</w> <w>dearb<ex>h</ex></w> <w>d<ex>h</ex>ar</w><lb/>
@@ -74,10 +74,10 @@
       <w>edaig<ex>h</ex></w> <abbr>.i.</abbr> <w>*s</w>(?) <w>loiḡ</w> <w>sec<ex>h</ex>ai<ex>n</ex></w> <abbr>⁊</abbr> <abbr>.h.</abbr> <w>naisc</w> <abbr>⁊</abbr><lb/>
       <abbr>.h.</abbr> <w>b<ex>re</ex>g</w>(?) <w>dai</w> <abbr>.h.</abbr> <w>scuisse</w>(?) <abbr>.h.</abbr> <w>mael</w> <w>id̄-</w><lb/>
       <abbr>.h.</abbr> <w>lan<ex>n</ex></w> <w>agai<ex>n</ex></w> <abbr>.h.</abbr> <w>ís</w> <w>aite</w> <w>O</w> <w>t<ex>h</ex>uat<ex>h</ex>ai<ex>n</ex></w><lb/>
-      <abbr>.i.</abbr> <abbr>h.</abbr> <w>b<ex>ru</ex>ada<ex>ir</ex></w> <abbr>.h.</abbr> <w>m<ex>ac</ex></w>(?) <w>eada</w> <abbr>.h.</abbr> <w>beoailb<ex>h</ex></w><lb/>
+      <abbr>.i.</abbr> <abbr>h.</abbr> <w>b<ex>ru</ex>ada<ex>ir</ex></w> <abbr>.h.</abbr> <w>m<ex>ac</ex></w>(?) <w>eada</w> <abbr>.h.</abbr> <w>beoailb<ex>h</ex></w><lb/></p>
       <pb n="2" facs="https://www.isos.dias.ie/libraries/NLS/NLS_Adv_MS_72_1_6/small_jpgs/02.jpg"/>
       <cb n="a"/>
-      <abbr>.h.</abbr> <w>ua</w> <w>naid-</w> <abbr>.i.</abbr> <w>inū̄it̄̄</w> <w>mellai<ex>n</ex></w> <abbr>.h.</abbr> <w>comai<ex>n</ex></w><lb/>
+      <p><abbr>.h.</abbr> <w>ua</w> <w>naid-</w> <abbr>.i.</abbr> <w>inū̄it̄̄</w> <w>mellai<ex>n</ex></w> <abbr>.h.</abbr> <w>comai<ex>n</ex></w><lb/>
       <abbr>.i.</abbr> <abbr>.h.</abbr> <w>dinaig<ex>h</ex></w> <abbr>.h.</abbr> <w>b<ex>er</ex>*ain</w> <abbr>.i.</abbr> <abbr>h.</abbr> <w>airesdaig<ex>h</ex></w><lb/>
       <abbr>.i.</abbr> <abbr>h.</abbr> <w>uibai<ex>n</ex></w> <abbr>.i.</abbr> <w>c*</w> <w>u</w> <w>bai<ex>n</ex></w> <w>a<ex>con</ex>n</w> <w>s<ex>ed</ex>aib</w> <abbr>.h.</abbr> <w>laeg<ex>h</ex></w><lb/>
       <w>a<ex>ir</ex>**</w> <abbr>.i.</abbr> <abbr>h.</abbr> <w>collai</w> <w>c<ex>ra</ex>eb<ex>h</ex></w> <w>coibnesa</w> <w>na</w> <w>bert</w><lb/>
@@ -132,7 +132,7 @@
       <w>ma<ex>e</ex>l</w> <w>o</w> <w>fuil</w> <abbr>.t.</abbr> <w>cat<ex>h</ex>mail</w> <w>ma<ex>e</ex>l</w><lb/>
       <w>falb<ex>h</ex>aill</w> <w>o</w> <w>fuil</w> <abbr>.t.</abbr> <w>maile</w> <w>fab<ex>h</ex>aill</w><lb/>
       <w>ma<ex>e</ex>l</w> <w>b<ex>r</ex>esail</w> <w>o</w> <w>fuil</w> <abbr>.t.</abbr> <w>maile</w> <w>b<ex>r</ex>esail</w><lb/>
-      <w>Brolac<ex>h</ex>an</w> <w>m<ex>ac</ex></w> <w>elgene</w> <w>m<ex>ac</ex></w> <w>dic<ex>h</ex><ex>con</ex></w> fuiled<lb/>
+      <w>Brolac<ex>h</ex>an</w> <w>m<ex>ac</ex></w> <w>elgene</w> <w>m<ex>ac</ex></w> <w>dic<ex>h</ex><ex>con</ex></w> fuiled<lb/></p>
     </body>
   </text>
 </TEI>
