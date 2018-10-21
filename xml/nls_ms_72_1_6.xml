@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Title</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <pb n="1" facs="https://www.isos.dias.ie/libraries/NLS/NLS_Adv_MS_72_1_6/small_jpgs/01.jpg"/>
+      <cb n="a"/>
+      <w>cenl-</w> <w>feargra(?)</w> <pc>::</pc> <w>s(?)os</w> <w>ben<ex>n</ex></w> <w>s̄̇<ex>ed</ex>(?)</w><pc>.</pc> <w>as<ex>ur</ex></w> <w>m<ex>ac</ex></w><lb/>
+      <w>deic</w> <w>m<ex>ac</ex></w> <w>eogain<ex>n</ex></w> <w>uas</w>(?) <w>gac<ex>h</ex></w>(?) <w>cloid̄</w> <w>feb</w><lb/>
+      <w>albinnd̄(?)</w> <w>in̈id<ex>h</ex>ac<ex>h</ex></w> <w><ex>ocus for</ex></w> <w><ex>conra</ex></w> <w>so</w>(? ro) <w>gart</w> <w>eoc<ex>h</ex>u</w><lb/>
+      <w>ceol-</w>(?) <w>corm<ex>a</ex>c</w> <w>imm<ex>orro</ex></w> <w>damm</w> <w>dearb<ex>h</ex></w> <w>d<ex>h</ex>ar</w><lb/>
+      <w>amo</w>(?) <w>cendg<ex>ar</ex></w>(?) <w>et<ex>h</ex>an</w>(?) <w>is</w> <w>ail<ex>no</ex></w>(?) <w>Fearg<ex>ra</ex></w> <w>m<ex>ac</ex></w><lb/>
+      <w>da</w> <w>les</w> <w>cogai<ex>n</ex></w> <w>da</w> <w>m<ex>ac</ex></w> <w>les</w> .i. <w><ex>ae</ex>dh</w> <w><ex>a quo</ex></w> <w>c*</w>(?)<lb/>
+      <w>in<ex>ae</ex>dho</w> <w>feardg<ex>ra</ex></w> <abbr>⁊</abbr> <w>coilbad<ex>h</ex></w> <w>da</w> <w>m<ex>ac</ex></w> <w>leo</w> <w>sein</w><lb/>
+      <w>c<ex>air</ex>ill</w> <abbr>⁊</abbr> <w>coisb<ex>er</ex></w> <w><ex>ae</ex>n</w>(?) <w>m<ex>ac</ex></w> <w>la</w> <w>c<ex>air</ex>b<ex>ri</ex></w> <w>.i.</w> <w>fed<ex>on</ex></w>(?)<lb/>
+      <w>da</w> <w>m<ex>ac</ex></w> <w>la</w> <w>fed<ex>on</ex></w> <w>.i.</w> <w>da</w> <w>dia<ex>r</ex>maid</w> <w>.i.</w><lb/>
+      <w>da</w> <w>rí</w> <w>c<ex>air</ex>sce</w> (cairrce?) <w>b<ex>ra</ex>c<ex>h</ex>aide</w> <abbr>⁊</abbr> <w>di_ar_mait</w><lb/>
+      <w>mongac<ex>h</ex></w> <w>o</w> <w>dia<ex>r</ex>maid<ex>h</ex></w> <w>rí</w> <w>ca<ex>ir</ex>ce</w> <w>b<ex>ru</ex>caigh</w><lb/>
+      <w>e</w> <w>o</w> <w>tat</w> <w>c*</w>(?) <w>cinmac<ex>h</ex></w> <w>a</w> <w>tuait<ex>h</ex></w> <abbr>⁊</abbr> <w>ane</w><lb/>
+      <w>as</w> <abbr>⁊</abbr> <w>o</w> <w>tat</w> <w>c*</w>(?) <w>b<ex>ae</ex>t<ex>h</ex></w> <w>elaig<ex>h</ex></w>(?) <abbr>⁊</abbr> <abbr>.h.</abbr> <w>c<ex>h</ex>anai</w> <abbr>⁊</abbr><lb/>
+      <abbr>.h.</abbr> <w>lint</w> (? luit) <abbr>⁊</abbr> <abbr>.h.</abbr> <w>cea*ain<ex>n</ex></w>(?) <abbr>⁊</abbr> <abbr>.h.</abbr> <w>duib_h_</w> <abbr>⁊</abbr> <abbr>.h.</abbr> <w>du<lb break="no"/>
+      b</w> <w>tac<ex>h</ex>ai<ex>n</ex></w>(?) <abbr>⁊</abbr> <abbr>.h.</abbr> <w>gailli<ex>n</ex></w> <abbr>⁊</abbr> <abbr>.h.</abbr> <w>*</w> <w>ín</w> <w>dib̄</w> <w>s<ex>ed</ex></w> <w>bec</w><lb/>
+      <w>t<ex>ir</ex></w> <w>m<ex>ac</ex></w> <w>ím<ex>morro</ex></w> <w>la</w> <w>ca<ex>ir</ex>ill</w> <abbr>.i.</abbr> <w>loeam</w> <abbr>⁊</abbr> <w>trapan</w> <abbr>⁊</abbr> <w>am<lb break="no"/>
+      aid̄</w> <w>o</w> <w>loc<ex>h</ex>an</w>(?) <w>otat</w> <abbr>.h.</abbr> <w>c<ex>er</ex></w> <w>bis</w> <abbr>⁊</abbr> <abbr>.h.</abbr> <w>aiḡ</w> <w>tíg<ex>h</ex></w><lb/>
+      <abbr>.i.</abbr> <w>m<ex>ac</ex></w> <w><ex>con</ex>gail</w> <w>gam<ex>h</ex>ai<ex>n</ex></w> <abbr>.h.</abbr> <w>loscaig<ex>h</ex></w> <abbr>⁊</abbr> <abbr>.h.</abbr> <w>loc<ex>h</ex></w><lb/>
+      <w>ai<ex>n</ex></w> <abbr>⁊</abbr> <abbr>.h.</abbr> <w>b<ex>re</ex>a<ex>r</ex></w> <w>aigh</w> <abbr>⁊</abbr> <abbr>.h.</abbr> <w>fr<ex>ae</ex>c<ex>h</ex></w> <w>esai<ex>n</ex></w>(? erain) <w>trea*(?)</w><lb/>
+      <w>an</w> nn̄(?) <w><ex>ae</ex>n</w> <w>m<ex>ac</ex></w> <w>ege</w> <abbr>||</abbr> <abbr>.i.</abbr> <w>f*lcu</w> <w>as</w> <w>uild<ex>h</ex>a</w>(?)<lb/>
+      <w>*aid</w> <abbr>.h.</abbr> <w>mael</w>(?) <w>moc<ex>h</ex>oisi</w> <abbr>⁊</abbr> <abbr>.h.</abbr> <w>dinb<ex>h</ex>lí</w> <abbr>⁊</abbr><lb/>
+      <abbr>.h.</abbr> <w>dub</w> <w>gilli</w> <abbr>⁊</abbr> <abbr>.h.</abbr> <w>dínes*aig<ex>h</ex></w> <abbr>⁊</abbr> <w>m<lb break="no"/>
+      inn̄ac<ex>h</ex>aī</w> <abbr>⁊</abbr> <abbr>.h.</abbr> <w>dob<ex>h</ex>saī</w> <abbr>⁊</abbr> <abbr>.h.</abbr> <w>dubaī</w> <w>as</w><lb/>
+      <w>e</w> <w>ín</w> <w>f*lcu</w> <w>sē</w> <w>do</w> <w>soíne</w>(?) <w>ín</w> <w>cusac<ex>h</ex></w> da<lb/>
+      <w>co*</w> <w>cille</w> <abbr>.i.</abbr> <w>ín</w>(?) <w>lía</w> <w>binlid<ex>h</ex>ac<ex>h</ex></w> <abbr>⁊</abbr> <w>do</w> <w>sad</w> <w>co*</w><lb/>
+      <abbr>.c.</abbr> <w>ḃ̄i*c<ex>h</ex>aī</w> <w>fais</w> <w>as</w> <w>dia</w> <w>c<ex>h</ex>ínid</w><lb/>
+      <w>com*ll</w>(?) <w>colcac<ex>h</ex></w> <w>ín</w> <w>si</w> <w>oi<ex>n</ex></w> <w>mid</w> <w>man<ex>n</ex></w><lb/>
+      <w>ma*a<ex>ir</ex></w> <w>do̅</w> <w>ṣ</w> <w>do</w> <w>síd<ex>h</ex>en</w> <abbr>⁊</abbr> <w>doni</w> <w>nall</w> <w>m<ex>ac</ex></w><lb/>
+      <cb n="b"/>
+      <w>aed<ex>h</ex></w> <abbr>.i.</abbr> <w>lann</w> <w>ingen</w> <w>aed<ex>h</ex></w> <w>gua<ex>ir</ex>e</w> <w>****</w>(?)<lb/>
+      <w>dib<ex>h</ex></w> <w>línib<ex>h</ex></w> <w>as</w> <w>do</w> <w>cí̄ed<ex>h</ex></w> <w>faelco<ex>n</ex></w> <w>dub</w> <w>di*</w>(?)<lb/>
+      <w>c*a<ex>r</ex>ba</w> <w>c<ex>on</ex></w>(?) <abbr>.c.</abbr> <w>an<ex>n</ex></w> <w>as</w> <w>uad</w> <w>atat</w> <abbr>.h.</abbr> <w>s<ex>h</ex>ea<ex>r</ex>c</w><lb/>
+      <w>ac<ex>h</ex>ai<ex>n</ex></w> <abbr>⁊</abbr> <abbr>.h.</abbr> <w><ex>con</ex>agai<ex>n</ex></w> <w><ex>no</ex></w>(?) <abbr>.h.</abbr> <w><ex>con</ex>allin<ex>n</ex></w> <abbr>⁊</abbr> <abbr>.h.</abbr> <w>em<ex>ac</ex></w><lb/>
+      <w>sen</w> <w>do</w> <w>cenel</w> <w>coilbad<ex>h</ex></w> <abbr>.h.</abbr> <w>angaile</w> <abbr>⁊</abbr><lb/>
+      <abbr>.h.</abbr> <w>udmallai<ex>n</ex></w>(?) <abbr>⁊</abbr> <abbr>.h.</abbr> <w>beo</w> <w>c<ex>h</ex>saige</w> <w>dib-</w><lb/>
+      <w>Cuanac<ex>h</ex></w> <w>m<ex>ac</ex></w> <w><ex>con</ex>a<ex>?</ex>lail</w> .nn.(?) <w>m<ex>ac</ex></w> <w>les</w> <abbr>.i.</abbr> <w>sob<ex>h</ex>a<ex>r</ex>t</w><lb/>
+      <w>ac<ex>h</ex></w> <w>otat</w> <w>c*</w>(?) <w>saba<ex>r</ex>taig</w> <abbr>.i.</abbr> <abbr>h.</abbr> <w>cellaig</w> <abbr>⁊</abbr><lb/>
+      <abbr>.h.</abbr> <w>duib<ex>h</ex></w> <w>loig̅sig<ex>h</ex></w> <w>otat</w> <abbr>.h.</abbr> <w>duibloig̅</w> <w>s<lb break="no"/>
+      íg</w> <abbr>.i.</abbr> <w>in̅*</w>(?) <w>corc<ex>ra</ex></w> <w>ín</w> <abbr>⁊</abbr> <w>cucat<ex>ra</ex></w>(?) c_h_ <w>o</w> <w>builed</w>(?)<lb/>
+      <w>c*</w>(?) <w><ex>con</ex>cat<ex>ra</ex>c<ex>h</ex></w>(?) <w>Don<ex>n</ex>gal</w> <w><ex>immorro</ex></w> <w>ni</w>(?) <w>cet<ex>ra</ex>ea<ex>m</ex></w> <w>m<ex>ac</ex></w>(?)<lb/>
+      <w>o</w> <w>b<ex>h</ex>uiled</w> <w>na</w> <w>toisig</w> <w>at**it<ex>h</ex></w>(?) <abbr>⁊</abbr> <w>anes</w><lb/>
+      <w><ex>ocus for</ex></w> <w>cenel</w> <w>f<ex>(o/e)</ex>ga<ex>r</ex></w> <w>da</w> <w>m<ex>ac</ex></w> <w>les</w> <abbr>.i.</abbr> <w>b<ex>ru</ex>ada<ex>r</ex></w>(?) <w>o</w> <w>builíd</w><lb/>
+      <w>c*</w>(?) <w>b<ex>ru</ex>ada<ex>ir</ex></w>(?) <abbr>⁊</abbr> <w>Cu<ex>m</ex>as</w> <w>cac<ex>h</ex></w> <w>do<ex>n</ex></w> <w>da</w> <w>m<ex>ac</ex></w> <w>les</w> <abbr>.i.</abbr> <w>luīg</w><lb/>
+      <w>sec<ex>h</ex></w> <w>dia<ex>r</ex></w> <w>bu</w> <w>m<ex>ac</ex></w> <w>mael</w> <w>ḟab<ex>h</ex>aill</w> <w>o</w> <w>finled</w> <abbr>.h.</abbr><lb/>
+      <w>mail</w> <w>f<ex>h</ex>abaill</w> <w>at*isig<ex>h</ex>ac<ex>h</ex></w> <w>tuaid<ex>h</ex></w> <abbr>⁊</abbr> <w>uil<ex>no</ex></w>(?)<lb/>
+      <w>da</w> <w>m<ex>ac</ex></w> <w>les</w> <abbr>.i.</abbr> <w><ex>con</ex>ne</w> <w><ex>a quo</ex></w> <w>min̅t̄</w>(?) <w><ex>con</ex>ne</w> <abbr>⁊</abbr> <w>mael</w><lb/>
+      <w>ga<ex>r</ex>bh</w> <w>at<ex>h</ex>a<ex>ir</ex></w> <w>cínaet<ex>h</ex>a</w> <w>dia<ex>r</ex></w> <w>bo</w> <w>m<ex>ac</ex></w> <w>o</w> <w>gan</w> <w>o</w> <w>fuil</w><lb/>
+      <w>ed<ex>h</ex></w>(?) <abbr>.h.</abbr> <w>o</w> <w>gai<ex>n</ex></w> <w>atoisig<ex>h</ex></w> <w>ac<ex>h</ex></w> <w>tes</w> <w>c*</w>(?) <w>coilb</w><lb/>
+      <w>ad<ex>h</ex></w> <w>cu**íc</w>(?) <w>so</w> <w>c*</w>(?) <w>maeda</w> <w>an<ex>n</ex></w> <w>sis</w> <w>Aed</w> m<w>ac</w><lb/>
+      <w>f̄g<ex>ra</ex></w>(?) <abbr>.uii.</abbr> <w>m<ex>ac</ex></w> <w>les</w> <abbr>.i.</abbr> <w>laega<ex>ir</ex>e</w> <w>tuat<ex>h</ex></w> <w>an</w> <w>ua<ex>n</ex></w><lb/>
+      <w>aid<ex>*</ex></w>(?) <w>c*an</w> <w>b<ex>re</ex>*an</w> <w>lan<ex>n</ex>an</w> <w>úbban</w> <w>*</w> <w>laeg<ex>h</ex></w><lb/>
+      <w>a<ex>ir</ex>e</w> <w>tollac_h_</w>(?) <w>cínaet<ex>h</ex>a</w> <note>(<abbr>.i.</abbr> <w>lic<ex>h</ex>lgan</w> <abbr>⁊</abbr> <w>hcadai<ex>n</ex></w>///)</note> ||| <w>*eba<ex>r</ex>nagi<ex>n</ex></w>(?) <w>o</w> <w>eog<ex>h</ex>a<ex>n</ex></w><lb/>
+      <w>o</w> <w>email</w> <w>muig<ex>h</ex>e</w> <abbr>.h.</abbr> <w>ċat<ex>h</ex>lan</w> <abbr>⁊</abbr> <w>tel*</w> <w>m<ex>ac</ex></w><lb/>
+      <w>edaig<ex>h</ex></w> <abbr>.i.</abbr> <w>*s</w>(?) <w>loiḡ</w> <w>sec<ex>h</ex>ai<ex>n</ex></w> <abbr>⁊</abbr> <abbr>.h.</abbr> <w>naisc</w> <abbr>⁊</abbr><lb/>
+      <abbr>.h.</abbr> <w>b<ex>re</ex>g</w>(?) <w>dai</w> <abbr>.h.</abbr> <w>scuisse</w>(?) <abbr>.h.</abbr> <w>mael</w> <w>id̄-</w><lb/>
+      <abbr>.h.</abbr> <w>lan<ex>n</ex></w> <w>agai<ex>n</ex></w> <abbr>.h.</abbr> <w>ís</w> <w>aite</w> <w>O</w> <w>t<ex>h</ex>uat<ex>h</ex>ai<ex>n</ex></w><lb/>
+      <abbr>.i.</abbr> <abbr>h.</abbr> <w>b<ex>ru</ex>ada<ex>ir</ex></w> <abbr>.h.</abbr> <w>m<ex>ac</ex></w>(?) <w>eada</w> <abbr>.h.</abbr> <w>beoailb<ex>h</ex></w><lb/>
+      <pb n="2" facs="https://www.isos.dias.ie/libraries/NLS/NLS_Adv_MS_72_1_6/small_jpgs/02.jpg"/>
+      <cb n="a"/>
+      <abbr>.h.</abbr> <w>ua</w> <w>naid-</w> <abbr>.i.</abbr> <w>inū̄it̄̄</w> <w>mellai<ex>n</ex></w> <abbr>.h.</abbr> <w>comai<ex>n</ex></w><lb/>
+      <abbr>.i.</abbr> <abbr>.h.</abbr> <w>dinaig<ex>h</ex></w> <abbr>.h.</abbr> <w>b<ex>er</ex>*ain</w> <abbr>.i.</abbr> <abbr>h.</abbr> <w>airesdaig<ex>h</ex></w><lb/>
+      <abbr>.i.</abbr> <abbr>h.</abbr> <w>uibai<ex>n</ex></w> <abbr>.i.</abbr> <w>c*</w> <w>u</w> <w>bai<ex>n</ex></w> <w>a<ex>con</ex>n</w> <w>s<ex>ed</ex>aib</w> <abbr>.h.</abbr> <w>laeg<ex>h</ex></w><lb/>
+      <w>a<ex>ir</ex>**</w> <abbr>.i.</abbr> <abbr>h.</abbr> <w>collai</w> <w>c<ex>ra</ex>eb<ex>h</ex></w> <w>coibnesa</w> <w>na</w> <w>bert</w><lb/>
+      <w>c***n<ex>n</ex></w> <w>so</w> <w>sis</w> :: <w>aig</w> <w>corm<ex>ac</ex></w> <w>i*an<ex>n</ex></w> <w>earg</w><lb/>
+      <w>Sec<ex>h</ex>t</w> <w>m<ex>ac</ex></w> <w>eogai<ex>n</ex></w> <w>raber</w> <w>daig<ex>h</ex></w> <w>fedl-</w> <w>aill-</w> <w>ed</w><lb/>
+      <w>na</w> <w>a</w> <w>ḟus</w> <w>dallam</w> <w>eten</w> <w>is</w> <w>aeng<ex>ra</ex></w> <w>ete</w><lb/>
+      <w>an<ex>n</ex></w> <w>so</w> <w>tell-</w> <w>na</w> <w>berdc<ex>h</ex>a</w> <w>o</w> <w>fedl-</w> <w>cet<ex>us</ex></w> <w>inūit̄</w><lb/>
+      <w>ruacai<ex>n</ex></w> <abbr>⁊</abbr> <w>inūit̄</w> <w>t<ex>re</ex>blail</w>(?) <abbr>⁊</abbr> <w>inūit̄</w> <w>sleb</w><lb/>
+      <w>ín</w> <abbr>⁊</abbr> <w>cl-</w> <w>niuissdelaig</w>(?) <abbr>⁊</abbr> <w>cl-</w> <w>cu_masaig_h_</w><lb/>
+      <abbr>⁊</abbr> <w>cl-</w> <w>ar<ex>con</ex></w> <abbr>⁊</abbr> <w>cl-</w> <w>tuat<ex>h</ex>ail</w> <abbr>⁊</abbr> <w>cl-</w> <w>fortir̄aig<ex>h</ex></w><lb/>
+      <w>O</w> <w>corm<ex>ac</ex></w> <w><ex>immorro</ex></w> <w>inūit̄</w> <w>cele</w> <abbr>⁊</abbr> <w>cl-</w> <w>mae*ga</w>(?)<lb/>
+      <w>ile-</w> <w>⁊</w> <w>cl-</w> <w>c<ex>h</ex>erdai<ex>n</ex></w> <note>(<abbr>⁊</abbr> <w>hinail</w> <w>i***</w>///)</note> <abbr>⁊</abbr> <w>cl-</w> <w>f̄g</w> <abbr>⁊</abbr> <abbr>.h.</abbr> <w>uail</w> <abbr>⁊</abbr> <abbr>.h.</abbr> <w>ul</w><lb/>
+      <w>tai<ex>n</ex></w> <abbr>⁊</abbr> <abbr>.h.</abbr> <w>suaíne</w> <w>O</w> <w>dallaín</w> <w>**_n_</w> <abbr>.h.</abbr> <w>e**i</w>(?)<lb/>
+      <w>*_h_ne</w>(?) <abbr>⁊</abbr> <abbr>.h.</abbr> <w>cinlúim</w> <abbr>⁊</abbr> <abbr>.h.</abbr> <w>roc<ex>h</ex>ai<ex>n</ex></w> <abbr>⁊</abbr> <abbr>.h.</abbr> cell<lb/>
+      aig <abbr>.i.</abbr> <abbr>.h</abbr> <w>mearaín</w> <abbr>⁊</abbr> <w>cl-</w> <w>c<ex>h</ex>uai<ex>n</ex></w> <w>O</w> <w>oill-</w> <w>***</w>(?)<lb/>
+      <w>inū̄it̄̄</w> <w>oir</w> <w>c<ex>h</ex>ellaig<w>h</w></w> <abbr>⁊</abbr> <w>inū̄it̄̄</w> <w>mail</w> <w>raite</w><lb/>
+      <abbr>⁊</abbr> <abbr>.h.</abbr> <w>rosaig<ex>h</ex></w> <abbr>⁊</abbr> <w>gillagai<ex>n</ex></w> <abbr>⁊</abbr> <abbr>.h.</abbr> <w>do*̄ai_n_</w> <abbr>⁊</abbr> <abbr>.h.</abbr><lb/>
+      <w>corm<ex>ac</ex></w> <abbr>⁊</abbr> <w>sil</w> <w>m<ex>ac</ex></w> <w>c<ex>ri</ex>(?)uaire</w> <w>O</w> <w>aille*̄</w> <w><ex>immorro</ex></w><lb/>
+      <abbr>.h.</abbr> <w>ḟínai<ex>n</ex></w> <abbr>⁊</abbr> <abbr>.h.</abbr> <w>mín<ex>a</ex>ai<ex>n</ex></w>(?) <abbr>⁊</abbr> <w>cearb<ex>h</ex>allai<ex>n</ex></w> <abbr>⁊</abbr> <abbr>.h.</abbr><lb/>
+      <w>e<ex>ar</ex>c</w> <w>c<ex>h</ex>oma*</w>(?) <abbr>⁊</abbr> <abbr>.h.</abbr> <w>c<ex>h</ex>olai<ex>n</ex></w> <abbr>⁊</abbr> <abbr>.h.</abbr> <w>uíd<ex>h</ex>ír</w> <abbr>⁊</abbr> <abbr>.h.</abbr><lb/>
+      <w>b<ex>er</ex></w> <w>hag</w> <w>m<ex>ac</ex></w> <abbr>⁊</abbr> <abbr>.h.</abbr> <w>c<ex>h</ex>ellaig<ex>h</ex></w> <abbr>⁊</abbr> <w>dinb*e</w> <abbr>⁊</abbr> <w>clan<ex>n</ex></w><lb/>
+      <w>agaile</w> <w>O</w> <w>a<ex>e</ex>ng<ex>h</ex></w> <w><ex>immorro</ex></w> <abbr>.h.</abbr> <w>mail</w> <w>ḟol</w> <abbr>⁊</abbr> <abbr>.h.</abbr><lb/>
+      <w>b<ex>(ro/or/oir)</ex>dlaig<ex>h</ex></w> <abbr>⁊</abbr> <abbr>.h.</abbr> <w>duba_r_taig_h_</w> <abbr>⁊</abbr> <abbr>.h.</abbr> <w>dubaltai_n_</w><lb/>
+      <abbr>⁊</abbr> <abbr>.h.</abbr> <w>colla(?hole in MS)i</w> <abbr>⁊</abbr> <abbr>.h.</abbr> <w>cellaig</w> <w>O</w> <w>et_h_en</w> <w><ex>immorro</ex></w><lb/>
+      <abbr>.h.</abbr> <w>ogai<ex>n</ex></w> <abbr>⁊</abbr> <abbr>.h.</abbr> <w>ruaraig<ex>h</ex></w> <abbr>⁊</abbr> <abbr>.h.</abbr> <w>rat_h_am</w><lb/>
+      <w>A</w> <w>re</w> <w>so</w> <w>mias</w> <w>mínuc<ex>h</ex>ud<ex>h</ex></w> <w>c<ex>(ra/ar)</ex>be</w> <w>coib</w><lb/>
+      <w>nesa</w> <w>na</w> <w>b<ex>(ra/ar)</ex>et</w> <w>c<ex>h</ex>a</w> <w>c<ex>(ar/ra)</ex>ebc</w> <w>coib<ex>h</ex>e<ex>a</ex>sa</w> <w>cl-</w> <w>f̄ad<ex>h</ex>aig<ex>h</ex></w><lb/>
+      <cb n="b"/>
+      <w>Eogan</w> <w>m<ex>ac</ex></w> <w>neill</w> <w>a<ex>r</ex>t</w> <w>mor</w> <w>mōaig<ex>h</ex></w> <w>m<ex>ur</ex>idac<ex>h</ex></w> <w>ba</w> <w>m<ex>ur</ex>er</w> <w>c<ex>(ar/ra)</ex>as</w> <w>meraig</w> <w>go</w><lb/>
+      <w>b<ex>(ra/ar)</ex>e</w> <w>buan</w> <e>an</e> <w>gleogal</w> <w>at<ex>h</ex>a<ex>ir</ex></w> <w>cac<ex>h</ex></w> <w>go</w><lb/>
+      <w>eogan</w> <w>uas</w> <w>Fea<ex>r</ex>idac<ex>h</ex></w> <w>m<ex>ac</ex></w> <w>m<ex>ur</ex>edaig</w><lb/>
+      <w>da</w> <w>m<ex>ac</ex></w> <w>les</w> <abbr>.i.</abbr> <w>f̄gna</w> <note>(<w>at_h_am</w>(interlinear))</note> <w>cu<ex>m</ex>ai<ex>n</ex></w> <w>fuiled</w><lb/>
+      <w>cl-</w> <w>cu<ex>m</ex>ai<ex>n</ex>e</w> <w>Fiac<ex>h</ex></w> <w>ua</w> <w>fiac<ex>h</ex>uac<ex>h</ex></w> <w><ex>immorro</ex></w><lb/>
+      <w>t<ex>ri</ex></w> <w>m<ex>ac</ex></w> <w>les</w> <abbr>.i.</abbr> <w>fiac<ex>h</ex>sa</w> <w>o</w> <w>ḟialed</w> <abbr>cl-</abbr><lb/>
+      <w>f̄ad<ex>h</ex>aig<ex>h</ex></w> <w>tes</w> <abbr>⁊</abbr> <w>es(with macron above both)</w> <w>tuaid</w> <abbr>⁊</abbr> <w>(b on top of s)ne</w><lb/>
+      <w>mean<ex>n</ex></w> <w>o</w> <w>ḟinled</w> <abbr>.i.</abbr> <w>b<ex>(ro/or)</ex>c̣lac<ex>h</ex>ai<ex>n</ex></w> <w>Dui_n_</w><lb/>
+      <w>id<ex>h</ex>ad</w> <w>m<ex>ac</ex></w> <w>etalaig<ex>h</ex></w> <w>m<ex>ac</ex></w> <w>fiac<ex>ra</ex></w> <w>c<ex>h</ex></w> <w>da</w> <w>m_ac_</w><lb/>
+      <w>les</w> <abbr>.i.</abbr> <w>cuga<ex>m</ex>na</w> <abbr>⁊</abbr> <w>ina<ex>e</ex>l</w> <w>fab<ex>h</ex>aill</w> <w>***</w>(?)<lb/>
+      <w>Ma<ex>e</ex>l</w> <w>fabaill</w> <w>do(with macron above both)</w> <w><ex>a quo</ex></w> <abbr>.h.</abbr> <w>tell-</w> <w>maile</w><lb/>
+      <w>fabaill</w> <w>da</w> <w>m<ex>ac</ex></w> <w>les</w> <abbr>.i.</abbr> <w>ma<ex>e</ex>l</w> <w>caid-e</w> <w>at<ex>h</ex></w><lb/>
+      <w>a<ex>ir</ex></w> <w>loig-</w> <w>sec<ex>h</ex>ai<ex>n</ex></w> <abbr>⁊</abbr> <w>ā</w> <w>f<ex>h</ex>ed</w> <w>ata<ex>ir</ex></w> <w>***ls*</w>(?)<lb/>
+      <w>anaig<ex>h</ex></w> <w>o</w> <w>ḟinled</w> <abbr>.t.</abbr> <w>mail</w> <w>miana*</w>(?)<lb/>
+      <w>Cugani</w> <w>na</w> <w><ex>immorro</ex></w> .ii. <w>m<ex>ac</ex></w> <w>les</w> <w>ca*an<ex>n</ex></w><lb/>
+      <w>⁊</w> <w><ex>con</ex>ai<ex>n</ex>g</w> <abbr>⁊</abbr> <w>cat<ex>h</ex>luan</w> <w>o</w> <w>f<ex>h</ex>uiled</w> <abbr>.t.</abbr> <w>c*t</w>(?)<lb/>
+      <w>luam</w> <abbr>⁊</abbr> <w>mail</w> <w>b<ex>ri</ex>gde</w> <abbr>⁊</abbr> <w>duba*a<ex>n</ex></w> <abbr>.h.</abbr> <w>do</w><lb/>
+      <w><ex>con</ex>ai<ex>n</ex>g</w> <w>cat<ex>h</ex>lua<ex>n</ex></w> <w>m<ex>ac</ex></w> <w>flan<ex>n</ex>agai<ex>n</ex></w> <w>m<ex>ac</ex></w> <w>o</w> <w>ai<ex>n</ex>g</w>(?)<lb/>
+      <abbr>.h.</abbr> <w>do</w> <w>ma<ex>e</ex>l</w> <w>b<ex>r</ex>igde</w> <w>cat<ex>h</ex>luan</w> <w>m<ex>ac</ex></w> <w>taid<ex>h</ex>g</w><lb/>
+      <w>m<ex>ac</ex></w> <w>mail</w> <w>b<ex>r</ex>igde</w> <abbr>.h.</abbr> <w>do</w> <w>dubagan</w><lb/>
+      <w>cma<ex>e</ex>t</w> <w>m<ex>ac</ex></w> <w><ex>con</ex>ai<ex>n</ex>g</w> <w>m<ex>ac</ex></w> <w>dubagai<ex>n</ex></w> <w>Du<lb break="no"/>
+      ac<ex>h</ex>aig</w> <w>m<ex>ac</ex></w> <w>canan<ex>n</ex></w> <w><ex>immorro</ex></w> <w>m<ex>ac</ex></w> <w>les</w> <w>cat<ex>h</ex></w><lb/>
+      <w>luan</w> <w>o</w> <w>ḟuill</w> <abbr>.t.</abbr> <w>cat<ex>h</ex>luain</w> <w>tat<ex>h</ex></w><lb/>
+      <w>ma<ex>e</ex>l</w> <w>o</w> <w>fuil</w> <abbr>.t.</abbr> <w>cat<ex>h</ex>mail</w> <w>ma<ex>e</ex>l</w><lb/>
+      <w>falb<ex>h</ex>aill</w> <w>o</w> <w>fuil</w> <abbr>.t.</abbr> <w>maile</w> <w>fab<ex>h</ex>aill</w><lb/>
+      <w>ma<ex>e</ex>l</w> <w>b<ex>r</ex>esail</w> <w>o</w> <w>fuil</w> <abbr>.t.</abbr> <w>maile</w> <w>b<ex>r</ex>esail</w><lb/>
+      <w>Brolac<ex>h</ex>an</w> <w>m<ex>ac</ex></w> <w>elgene</w> <w>m<ex>ac</ex></w> <w>dic<ex>h</ex><ex>con</ex></w> fuiled<lb/>
+    </body>
+  </text>
+</TEI>
