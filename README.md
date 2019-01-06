@@ -2,7 +2,7 @@
 
 This is the Manuscript Transcription Archive for the [Early Irish
 Genealogy Database](https://github.com/cyocum/irish-gen).  The purpose
-is to supply transcriptions from MSS which are avaliable on [Irish
+is to supply transcriptions from MSS which are available on [Irish
 Scripts on Screen](https://www.isos.dias.ie/) that have large amounts
 of early Irish genealogical material to allow the translation of
 those sources into RDF for the IrishGen database.
